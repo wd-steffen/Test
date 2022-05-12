@@ -1,0 +1,20 @@
+Productbox:
+
+	Show productnumber in cart			Y
+	Show properties in cart				? werden keine weiteren Informationen angezeigt
+	Enable borders					? keine Unterschiede
+	
+
+Cart:
+
+General settings:
+
+	Layout checkout button				?
+	Right Column Alignment				Y
+	Show add-product-container in cart		Y
+	Show shippingcost				Y
+	
+				
+	
+
+	

@@ -1,0 +1,28 @@
+Navigation:
+
+	Position der Paginierung			Y
+
+
+
+
+ProduktBox:
+
+Generelle Einstellungen:
+
+	Produktbox Beschreibung anzeigen 		Y
+	Produktbox Text zentrieren 			Y
+	Lieferzeit anzeigen 				? Allgemein nicht angezeigt
+	Produktnummer anzeigen 				? Allgemein nicht angezeigt
+	Darstellung Grundpreis 				? kein unterschied festgestellt
+
+Farben:
+
+	Rahmenfarbe 					Y
+	Merkzettel Herz Farbe 				Y
+	Rahmen aktivieren 				? Rahmen bleibt aktiviert
+	Produktvarianten Informationen anzeigen		? 
+	Merklist Position 				?
+	Zweiter Knopf im Kard (e.g. PayPal) 		?
+
+
+

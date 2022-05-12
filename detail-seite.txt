@@ -1,0 +1,73 @@
+Theme-Layout:
+
+	Position der Überschrift 			Y
+	Darstellung von Beschreibung 			Y
+	Namengröße (z.B. h1, h2, h3) 			Y
+
+
+
+
+buybox:
+
+	Hersteller in der Buybox anzeigen		Y
+	Bewertungen in Buybox anzeigen			? keine Bewertungen vorhanden, wird vielleicht deshalb nicht angezeigt
+	Kurze Beschreibung in Buybox anzeigen		? wird nicht angezeigt, im Hinweisfeld steht es muss ein Zusatzfeld angelegt werden
+	Produktdetailseite Merkzettel Position		Y
+	Hintergrundfarbe				Y
+	Rahmenfarbe					Y
+	Price view					? ergibt keine Unterschiede
+	Länge auf Anfrage				? es muss ein Zusatzfeld angelegt werden, siehe Hinweisbox
+	Uhrzeit auf Anfrage				? es muss ein Zusatzfeld angelegt werden, siehe Hinweisbox
+
+
+
+
+Medien:
+	Hintergrundfarbe 				Y
+	Rahmenfarbe					Y
+		
+Thumbnails:
+	Thumbnails anzeigen				? Thumbnails werden immer angezeigt
+	Position der Thumbnails				Y
+
+Navigation:
+	Pfeile anzeigen					Y
+	Pagnierung anzeigen				? kein Unterschied erkannt
+
+
+
+
+
+Weitere Felder in Buybox:
+
+Zusatzfelder:
+	Hersteller anzeigen				? Hersteller wird nicht extra angezeigt
+	Hersteller-Nr. anzeigen				? wird nicht extra angezeigt
+	Gewicht anzeigen				? wird nicht extra angezeigt, steht aber in der Beschreibung
+	Länge anzeigen					? wird nicht extra angezeigt, steht aber in der Beschreibung
+	Breite anzeigen					? wird nicht extra angezeigt, steht aber in der Beschreibung
+	Höhe anzeigen					? wird nicht extra angezeigt, steht aber in der Beschreibung
+	Artikelqualität anzeigen			?
+	Versandkostenfrei anzeigen			? keine Produkte ohne Versandkosten gefunden
+	Sonderangebot anzeigen				? kein Unterschied gefunden
+	Begrenzte Verfügbarkeit anzeigen		? Lagerbestand wird immer angezeigt
+	Sitzhöhe anzeigen				?
+	Höhe Rückenlehne anzeigen			?
+	Höhe Armlehne anzeigen				?
+	Tischhöhe anzeigen				?
+
+Standardfelder:
+
+	Gewicht anzeigen				? wird nicht extra angezeigt, steht aber in der Beschreibung
+	Länge anzeigen					? wird nicht extra angezeigt, steht aber in der Beschreibung
+	Breite anzeigen					? wird nicht extra angezeigt, steht aber in der Beschreibung
+	Höhe anzeigen					? wird nicht extra angezeigt, steht aber in der Beschreibung
+	
+	
+
+
+
+
+	
+
+	

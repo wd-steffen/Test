@@ -1,0 +1,35 @@
+Brotkrümelnavigation:
+
+Generelle Einstellungen:
+	Nur Eltern Kategorie anzeigen			? kein Unterschied gefunden
+	Brotkrümelnposition				? kein Unterschied gefunden
+
+Home Icon oder Text:
+	Home anzeigen					? Home wird nie angezeigt
+	Icon oder Text-Link				?
+
+	Hintergrundfarbe				Y
+	Textfarbe					Y
+	Groß- und Kleinschreibung			Y
+	Breadcrumb anzeigen (Startseite)		? kein Unterschied wird nie angezeigt
+
+
+
+
+
+
+
+
+
+
+
+
+body Hintegrund:
+
+	Hintergrundbild					Y
+	Hintergrundbild anzeigen			Y
+	Abmessungen					Y
+	Position					Y
+	Wiederholung					Y
+	Fixierung					Y
+	body Hintergrundfarbe				Y

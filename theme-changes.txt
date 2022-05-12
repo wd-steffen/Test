@@ -1,0 +1,58 @@
+"snap-input-focus-border-color"
+"tab": "buttons",
+"block": "forms",
+
+value #F68D1E auf $sw-color-brand-primary geändert
+
+
+
+"snap-header-search-border-focus"
+"tab": "header",
+"block": "search",
+"section": "color",
+
+value #F68D1E auf $sw-color-brand-primary geändert
+
+
+
+
+"snap-buy-widget-color"
+"tab": "tabWidgets",
+"block": "workingDetails"
+
+value #CF934D auf $sw-color-brand-primary geändert
+
+
+
+"sw-headline-color"
+"tab": "colorsTypo",
+"block": "typography",
+
+value #cf9325 auf $sw-color-brand-primary geändert
+
+
+
+
+"snap-cart-shippingcostcontainer-enable"
+"tab": "checkout",
+"block": "cart",
+
+help text gelöscht
+
+
+
+"sw-color-buy-button-text"
+"tab": "colorsTypo",
+"block": "eCommerce",
+
+value #F0F5F3 auf $sw-color-brand-secondary geändert
+
+
+
+"snap-footer-border-color"
+"tab": "footer",
+"block": "themeColors",
+
+value #F0F5F3 auf $sw-color-brand-secondary geändert
+
+

@@ -1,0 +1,96 @@
+Header:
+
+Generelle Einstellungen:
+
+	Variante					? Bei Einstellung "Navigation Unterhalb" verschwindet die Suchbar komplett, bei einer gewissen Breite(tablet)		
+	Menü Icon auf Mobile				Y
+	Header über die ganze Breite anzeigen		Y
+	Header Container box-shadow			Y
+
+Abstände:
+
+	Innenabstand Oben (in px)			Y
+	Innenabstand Unten (in px)			Y
+	Innenabstand Seiten (in px)			Y
+
+Farben:
+
+	Hintergrundfarbe				Y
+	Textfarbe 					? Die Farbe der Icons (suche, merkzettel, benutzer, warenkorb) ändert sich
+ 
+Logo:
+
+	Maximale Breite des Logos auf Desktop (in px)	Y 
+	Maximale Breite des Logos auf Mobile (in px)	? kein Unterschied
+
+Warenkorb:
+
+	Warenkorb Artikelanzahl				Y
+	Merkzettel Artikelanzahl			?
+	icons view					? Bei Einstellung "Mit der Aufschrift" fehlerhaftes responsive verhalten (Anordnung)
+	Warenkorb Badge Farbe				Y
+
+
+
+
+
+Navigation:
+
+	Generelle Einstellungen:			? Bei Einstellung "Zentriert", wird nicht alles angezeigt(Kategorien). Bei Einstellung "Rechtsbündig" verschwindet der Scroller
+	Schriftstärke					Y
+	Groß- und Kleinschreibung			Y
+	Schriftgröße 					Y
+
+
+Farben:
+
+	Hintergrundfarbe				? nur die Farbe der Scrollbar änder sich						
+	Textfarbe 					Y
+	Textfarbe @hover				? die Farbe der angeklickte Kategorie ändert sich aber kein hover effekt
+	Text-Dekoration @hover				? keine Unterschiede 
+
+Hover styles:
+
+	Hauptnavigation hover style			? Einstellung "Gleichess Wort" erscheinen andere Texte bei Deko und Gartenhäuser
+							  Einstellung "Herunterfallen" fehlerhaftes verhalten
+
+
+
+
+Flyout Navigation:
+
+	Hintergrundfarbe				Y
+	Textfarbe					Y
+	Hintergrund Opazität				Y
+	Textfarbe @hover 				Y
+	Flyout Navigation Teaser			? keine Unterschiede erkannt
+
+Generelle Einstellungen:
+
+	Flyout Hover Animation				Y
+	Schriftgröße					Y
+	Adaptive Breite					? keine Unterschiede erkannt
+
+
+
+
+
+Suche:
+
+Farben:
+
+	Hintergrundfarbe:				? Wenn Generelle Einstellung -> Variante -> Suche als Icon, dann erscheint die Farbe nur kurz, wenn man auf X drückt
+	Hintergrundfarbe (focus)			? klappt nicht
+	
+
+
+
+
+
+
+
+	
+
+
+
+

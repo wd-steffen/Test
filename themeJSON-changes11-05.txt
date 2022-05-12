@@ -1,0 +1,51 @@
+"snap-header-search-border-focus"
+tab: header
+block": search
+section: color
+
+value: #F68D1E geändert in $sw-color-brand-primary
+
+
+
+
+"snap-input-focus-border-color"
+tab: "buttons
+block: forms
+
+value: #F68D1E geändert in $sw-color-brand-primary
+
+
+
+"sw-headline-color"
+tab: colorsTypo,
+block: typography
+
+value: #CF934D geändert in $sw-color-brand-primary
+
+
+
+"snap-buy-widget-color"
+tab: tabWidgets
+block: workingDetails
+
+value: #CF934D geändert in $sw-color-brand-primary
+
+
+
+
+
+
+
+"sw-color-buy-button-text"
+tab: colorsTypo
+block: eCommerce
+
+value: #F0F5F3 geändert in $sw-color-brand-secondary
+
+
+
+"snap-footer-border-color"
+tab: footer
+block: themeColors
+
+value: #F0F5F3 geändert in $sw-color-brand-secondary

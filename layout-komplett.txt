@@ -1,0 +1,65 @@
+Brotkrümelnavigation:
+
+Generelle Einstellungen:
+	Nur Eltern Kategorie anzeigen			? kein Unterschied gefunden
+	Brotkrümelnposition				? kein Unterschied gefunden
+
+Home Icon oder Text:
+	Home anzeigen					? Home wird nie angezeigt
+	Icon oder Text-Link				?
+
+	Hintergrundfarbe				Y
+	Textfarbe					Y
+	Groß- und Kleinschreibung			Y
+	Breadcrumb anzeigen (Startseite)		? kein Unterschied wird nie angezeigt
+
+
+
+
+
+Theme-Layout:
+
+Basiskonfiguration:
+
+	Grundlayout full-width-boxed			? Einstellung "boxed" die listing box rutscht aus der übergeordnete box (bei Desktop), 
+							  bei der Mobile Ansicht verrutscht auch die icons im Header (menü, suchbar..),
+							  zweite Navigation wird sichtbar(desktop)
+	mobile layout full-width			? kein Unterschied gefunden
+	Abgerundete Ecken				? kein Unterschied gefunden
+
+Container (Grundlayout 'boxed'):
+
+	Außenabstand oben/unten				? keine Unterschiede erkannt		
+	Schattenfarbe					? keine Unterschiede erkannt
+	Box-Shadow (body-container)			? keine Unterschiede erkannt
+
+
+
+
+
+
+body Hintegrund:
+
+	Hintergrundbild					Y
+	Hintergrundbild anzeigen			Y
+	Abmessungen					Y
+	Position					Y
+	Wiederholung					Y
+	Fixierung					Y
+	body Hintergrundfarbe				Y
+
+
+
+
+Haupt-Container:
+
+	Maximale Breite der Produktliste 		? keine Unterschiede
+	Abgerundete Ecken				? keine Unterschiede					
+	Hintergrundfarbe				? keine Unterschiede
+	Außenabstand oben				? keine Unterschiede
+	Außenabstand unten				? keine Unterschiede 
+	Innenabstand @Desktop (≥1200px)			? keine Unterschiede
+	Rahmenfarbe					? keine Unterschiede
+	Box-Shadow (main-container)			? keine Unterschiede
+
+

@@ -1,0 +1,43 @@
+Tab: Footer:
+
+Block: About Text
+variable:
+	snap-footer-about-text-enable			
+		-gelöscht
+		-war im code nicht vorhanden
+
+variable:
+	snap-footer-about-container-background
+		-gelöscht
+		-war im code nicht vorhanden
+
+
+
+
+Block: blockFooterMainSection
+variable:
+	snap-footer-padding-top
+		-gelöscht
+		-war in variables.scss und footer.scss
+
+variable:
+	snap-footer-margin-top
+		-gelöscht
+		-war in variables.scss und footer.scss
+
+variable:
+	snap-footer-padding
+		-gelöscht
+		-war in variables.scss und footer.scss
+
+variable:
+	snap-footer-margin-bottom
+		-gelöscht
+		-war in variables.scss und container.scss
+
+varibale:
+	snap-footer-padding-bottom
+		-gelöscht
+		-war in variables.scss und footer.scss
+
+	

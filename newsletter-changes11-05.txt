@@ -1,0 +1,20 @@
+Theme Layout:
+
+	Newsletter box-shadow:
+
+	in newsletter.scss code umgeschrieben von 
+	//Newsletter box-shadow
+	@if $snap-newsletter-main-box-shadow == 1 {
+        	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    	}
+
+
+	zu
+
+
+	//Newsletter box-shadow
+	@if $snap-newsletter-main-box-shadow == 1 {
+        	box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 5px 15px;
+
+    	}

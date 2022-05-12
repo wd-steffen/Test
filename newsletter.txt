@@ -1,0 +1,52 @@
+Theme Layout:
+
+	Show Newsletter					Y
+	newsletter position				Y
+	Columns (Ony Dektop)				? Einstellung: "Text left, input right" -> unsicher über richtiges verhalten
+	Show Last name, first name			? Alle input Felder haben ein Submit Button 
+ 	Newsletter box-shadow				Y
+
+Theme colours:
+
+	Background color				Y
+	Headline color					Y
+	Text Color					Y
+	Button style					? funktioniert nicht / habe den button zum Testen auf btn-secondary geändert, der button ändert dann die position nach unterhalb des input Feldes 
+ 	Border Color					Y
+
+
+Footer element:
+
+General settings:
+
+	Background-Image				Y
+	Show background image				Y
+	Image size					Y
+	Position					Y
+	Repeat						Y
+	Attachment					Y
+
+
+
+
+
+
+
+
+
+
+
+
+//Newsletter box-shadow
+    @if $snap-newsletter-main-box-shadow == 1 {
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    }@else if $snap-newsletter-main-box-shadow == 0 {
+        box-shadow: none;
+    }
+
+
+theme colours
+
+background color: #EDEAE3
+Headline color	$sw-color-brand-primary

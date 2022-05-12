@@ -1,0 +1,44 @@
+Theme-Layout:
+
+	Rahmen oberhalb des Footers anzeigen		Y
+	Versand Logos anzeigen				Y
+	Logos der Zahlungsarten anzeigen		Y
+	Social Media im Footer anzeigen			Y
+	Awards Widget anzeigen				Y
+	Spalten nur Desktop (≥1200px)			? Einstellung "6 Spalten" klappt nicht, stattdessen wird 4 angeszeigt
+
+
+Generelle Einstellungen:
+
+	Footer Container box-shadow (full-width-boxed)	Y	
+
+
+
+
+
+
+Theme-Farben:
+	
+	Hintergrundfarbe				Y
+	Hintergrundfarbe footer-bottom			Y
+	Rahmenfarbe 					Y
+	Textfarbe 					Y
+	Hintergrundfarbe oben				? keine Hintergrundfarbe oben
+
+
+
+
+Footer-Element:
+
+bodyBackground:
+
+	Hintergrundbild vom Hauptteil			Y
+	Hintergrundbild anzeigen			Y
+	Abmessungen					Y
+	Position					Y
+	Wiederholung					Y
+	Fixierung					Y
+
+
+
+	
